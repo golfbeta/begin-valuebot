@@ -1,2 +1,0 @@
-# begin-valuebot
-Begin app
